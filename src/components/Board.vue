@@ -73,9 +73,7 @@
 </template>
 
 <script>
-  import {
-    EventBus
-  } from '../main';
+
 
 
   export default {
@@ -165,10 +163,11 @@
 
 
     },
-
-    beforeUpdate() {
-
+    components:{
+        shared
     }
+
+    
 
 
 

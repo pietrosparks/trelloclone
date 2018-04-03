@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # vuetask
 
 > A Vue.js project
@@ -20,7 +19,3 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
-# trelloclone
-a VueJS trello clone 
->>>>>>> defa712a2c8973fd8b5b83a7129c14f390cce74b
