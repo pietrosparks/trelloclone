@@ -164,7 +164,7 @@
 
     },
     components:{
-        shared
+     
     }
 
     

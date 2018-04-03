@@ -12,8 +12,9 @@ export default new Router({
     {
       path: '/',
       name: 'Main',
-      component: Main,
-      alias:'/trelloclone'
+      alias:'/trelloclone',
+      component: Main
+     
     },
     {
       path: '/:id',
